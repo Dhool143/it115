@@ -1,0 +1,12 @@
+{
+    "name": "Fathiya Yoosef",
+    "age": 40,
+    "city": "Washigton, Seattle",
+    "interests": [
+        "Traveling",
+        "Shopping",
+        "Eating new Food",
+        "Watch Movies"
+    ],
+    "is_student": false
+}
